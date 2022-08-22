@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  font-family: 'Roboto';
+  -webkit-font-smothing:antialiased;
+  -moz-osx-font-smothing:grayscale;
+  background-color: #d5d4d4;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
